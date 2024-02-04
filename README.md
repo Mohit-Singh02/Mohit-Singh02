@@ -7,6 +7,7 @@
  Python, adept at implementing data structures, and well-versed in
  fundamental sorting algorithms. Committed to continuous learning and
  contributing value through analytical thinking</h4>
+ 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
