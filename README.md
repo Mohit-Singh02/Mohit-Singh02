@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
-<h3 align="center"> An Aspiring Full Stack Web Developer and currently , I am Learning Python and Dsa. In DSA i also known as Two Pointer, Merge Sort , many more. I also passinate for learning many things. I also learned Python, Html and css etc.  I have also completed basic mini Project like as Weater Clone and Rock, Paper , Scissor.  </h3>
+<h3 align="center"> An Aspiring Full Stack Web Developer and currently.   </h3>
+<h4> Results-oriented DSA Intern with a good track record of using strong
+ logic and problem-solving skills to overcome challenges. Good in
+ Python, adept at implementing data structures, and well-versed in
+ fundamental sorting algorithms. Committed to continuous learning and
+ contributing value through analytical thinking</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
