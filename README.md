@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
-<h3 align="center"> An Aspiring Full Stack Web Developer and currently.   </h3>
+<h3 align="center"> An Aspiring Full Stack Web Developer   </h3>
 <h4> Results-oriented DSA Intern with a good track record of using strong
  logic and problem-solving skills to overcome challenges. Good in
  Python, adept at implementing data structures, and well-versed in
