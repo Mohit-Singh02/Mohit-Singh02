@@ -2,18 +2,21 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center"> An Aspiring Full Stack Web Developer   </h3>
-<h4> Results-oriented DSA Intern with a good track record of using strong
- logic and problem-solving skills to overcome challenges. Good in
- Python, adept at implementing data structures, and well-versed in
- fundamental sorting algorithms. Committed to continuous learning and
- contributing value through analytical thinking</h4>
+<h4>Dedicated and detail-oriented with a passion for
+    accuracy and efficiency. Proactive problem-solver with
+    a track record of delivering results in fast-paced
+    environments. Adept at fostering collaborative
+    relationships across departments to drive
+    organizational success. Passionate about delivering
+    tangible results that drive client satisfaction and long
+    term success </h4>
  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-singh02&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-singh02" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **Mohitsingh2443@gmail.com**
   
