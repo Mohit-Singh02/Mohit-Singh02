@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center"> An Aspiring Full Stack Web Developer   </h3>
